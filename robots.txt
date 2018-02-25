@@ -1,1 +1,1 @@
-Sitemap: https://yous.github.io/sitemap.xml
+Sitemap: https://wildcoder.info/sitemap.xml
