@@ -2,11 +2,11 @@
 # pages in order as they should show up.
 main:
   - title: "Home"
-    url: https://wildcoder.info/
+    url: /
   - title: "Archives"
     url: /archives/
   - title: "Contact"
-    url: 
+    url: /
   - title: "About"
     url: /about/
 
