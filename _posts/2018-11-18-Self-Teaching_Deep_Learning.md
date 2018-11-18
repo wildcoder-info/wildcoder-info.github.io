@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-teaching Deep Learning
+title: "Self-teaching Deep Learning"
 categories: 
 	- Machine Learning
 	- Self-teaching
