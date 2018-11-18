@@ -2,8 +2,8 @@
 layout: post
 title: "Self-teaching Deep Learning"
 categories: 
-	- Machine Learning
-	- Self-teaching
+  - Machine Learning
+  - Self-teaching
 ---
 
 # Books
