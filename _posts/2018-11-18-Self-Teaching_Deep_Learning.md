@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Deep Learning Self-teaching List
+title: Self-teaching Deep Learning
 categories: 
 	- Machine Learning
-	- Self-teaching List
+	- Self-teaching
 ---
-
-# Deep Learning Self-teaching List
 
 # Books
 * *Deep Learning* Ian Goodfellow, Yoshua Bengio, Aaron Courville
