@@ -5,8 +5,7 @@ main:
     url: /
   - title: "Archives"
     url: /archives/
-  - title: "Contact"
-    url: /
   - title: "About"
     url: /about/
-
+  - title: "GitHub"
+    url: https://github.com/wildcoder-info
