@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Awesome Post
-categories: Misc
+title: First Post
+categories: None
 ---
 
+Here comes the first post.
